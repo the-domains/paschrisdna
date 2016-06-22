@@ -1,0 +1,14 @@
+layout_spectrum: 0.617477206280455
+typography_spectrum: 0.057448932668194175
+color:
+  brandStrength: 0.7063855773303658
+  lightness: 0.9592522748280317
+  saturation: 0.35957630537450314
+  rhythmicContrast: 0.37165913241915405
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: PaschrisDNA
