@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PaschrisDNA]]></title>
+        <description><![CDATA[PaschrisDNA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 22 Jun 2016 18:51:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[D∆WN - Wake Up by D∆WN]]></title>
+            <description><![CDATA[<article><h1>D∆WN - Wake Up by D∆WN</h1><p>Out now Buy on iTunes: http://smarturl.it/WakeUpiT Stream on Spotify: http://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9</p></article>]]></description>
+            <link>https://soundcloud.com/dawn_richard/wake-up</link>
+            <guid isPermaLink="false">67eedc62-eb3a-4add-bee6-00e7192227bc</guid>
+            <pubDate>Wed, 22 Jun 2016 18:51:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
