@@ -1,16 +1,15 @@
 ---
+datePublished: '2016-07-11T15:20:30.993Z'
+sourcePath: _posts/2016-07-11-1000x-by-jarrydjamesk.md
+isBasedOnUrl: 'https://soundcloud.com/jarrydjamesk/1000x'
+keywords: []
+related: []
 author:
   - name: JarrydjamesK
     url: 'http://soundcloud.com/jarrydjamesk'
     avatar: {}
-related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: Stream 1000x by JarrydjamesK from desktop or your mobile device
+dateModified: '2016-07-11T15:19:01.198Z'
+title: 1000x by Jarryd James
 app_links:
   - type: ios
     namespace: ai
@@ -48,17 +47,18 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/jarrydjamesk/1000x'
-title: 1000x by JarrydjamesK
-datePublished: '2016-07-11T15:17:59.846Z'
-dateModified: '2016-07-11T15:16:23.952Z'
+publisher:
+  url: 'http://soundcloud.com'
+  name: SoundCloud
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+  domain: soundcloud.com
+description: ''
 starred: false
-sourcePath: _posts/2016-07-11-1000x-by-jarrydjamesk.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: AudioObject
 _context: 'http://schema.org'
+_type: AudioObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F267947729%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fjarrydjamesk%2F1000x&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-C93TlguaXhz0-0-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
