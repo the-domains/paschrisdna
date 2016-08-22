@@ -1,14 +1,11 @@
 ---
-datePublished: '2016-07-11T15:20:30.993Z'
+datePublished: '2016-08-22T14:46:16.082Z'
 sourcePath: _posts/2016-07-11-1000x-by-jarrydjamesk.md
 isBasedOnUrl: 'https://soundcloud.com/jarrydjamesk/1000x'
 keywords: []
 related: []
-author:
-  - name: JarrydjamesK
-    url: 'http://soundcloud.com/jarrydjamesk'
-    avatar: {}
-dateModified: '2016-07-11T15:19:01.198Z'
+author: []
+dateModified: '2016-08-22T14:46:15.678Z'
 title: 1000x by Jarryd James
 app_links:
   - type: ios
@@ -47,12 +44,9 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
+publisher: {}
 description: ''
+via: {}
 starred: false
 inFeed: true
 hasPage: false
